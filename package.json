@@ -1,0 +1,16 @@
+{
+  "name": "volleyball-elite-core",
+  "version": "2.0.0",
+  "description": "Enterprise Grade Tactical Volleyball Trading Card Engine Built for Scale",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "private": true
+}
